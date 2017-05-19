@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.mlearningperbanas" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.moodle.moodlemobile" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>M-Learning Perbanas</name>
   <description>M-Learning Perbanas Institute Jakarta</description>
   <author href="rinrey.blogspot.com" email="nofear24ynwa@gmail.com">rinrey</author>
